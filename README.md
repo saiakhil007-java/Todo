@@ -2,7 +2,7 @@
 
 This is a simple Spring Boot application that provides RESTful APIs to manage Todo tasks. It allows users to create, read, update, and delete todos using a PostgreSQL or in-memory database through Spring Data JPA.
 
-## ✅ Features
+##  Features
 
 - Get all todos
 - Get a todo by ID
@@ -10,7 +10,7 @@ This is a simple Spring Boot application that provides RESTful APIs to manage To
 - Update a todo
 - Delete a todo
 
-## 🧱 Technologies Used
+##  Technologies Used
 
 - Java
 - Spring Boot
@@ -18,7 +18,7 @@ This is a simple Spring Boot application that provides RESTful APIs to manage To
 - Spring Data JPA
 - PostgreSQL (or in-memory DB for testing)
 
-## 📦 API Endpoints
+##  API Endpoints
 
 | Method | Endpoint        | Description       |
 |--------|------------------|-------------------|
@@ -28,7 +28,7 @@ This is a simple Spring Boot application that provides RESTful APIs to manage To
 | PUT    | `/todos/{id}`    | Update a todo     |
 | DELETE | `/todos/{id}`    | Delete a todo     |
 
-## 🧪 Sample Todo JSON
+##  Sample Todo JSON
 
 ```json
 {
